@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**mshamshad1/mshamshad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm **Marrium Shamshad**, a PhD student in **Applied Mathematics**  
+at the Department of Mathematics and Statistics, **Georgia State University**, Atlanta, GA.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Research Interests
+- Dynamical Systems and Causal Modeling  
+- Brain Network Dynamics  
+- Topological Data Analysis (TDA) 
+- Higher Order Networkers  
+
+---
+
+### 🔗 Academic Profiles
+- 🧬 [ORCID](https://orcid.org/0009-0008-3167-3992)  
+- 🧠 [Google Scholar](https://scholar.google.com/scholar?hl=en&q=Marrium+Shamshad)  
+- 💼 [LinkedIn](https://linkedin.com/in/marriumshamshad)  
+- 🌐 [Website](https://marriumshamshad.github.io)
+
+---
+
+📧 [mshamshad1@gsu.edu](mailto:mshamshad1@gsu.edu)
