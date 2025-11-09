@@ -7,9 +7,9 @@ at the Department of Mathematics and Statistics, **Georgia State University**, A
 ---
 
 ### 🧠 Research Interests
-- Dynamical Systems and Causal Modeling  
+- Dynamical Systems / Partial Differential Equations 
 - Brain Network Dynamics  
-- Topological Data Analysis (TDA) 
+- Topological Data Analysis 
 - Higher Order Networkers  
 
 ---
